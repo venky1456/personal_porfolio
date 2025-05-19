@@ -48,7 +48,7 @@ const ExperienceItem = ({ experience, index, isLast }) => {
           <img  
             class="w-full h-full object-contain p-1.5" 
             alt={experience.company + " logo"}
-           src="/src/sources/ei-logo.jpg" />
+           src="/public/sources/ei-logo.jpg" />
         </div>
         {!isLast && <div className="w-px h-full bg-primary/30 my-2 min-h-[60px]"></div>}
       </div>

@@ -15,7 +15,7 @@ const Hero = () => {
 
   const handleResumeDownload = () => {
     const link = document.createElement('a');
-    link.href = '/src/sources/Venkatesh_Resume.pdf';
+    link.href = '/public/sources/Venkatesh_Resume.pdf';
     link.setAttribute('download', 'Venkatesh_Resume.pdf'); 
     document.body.appendChild(link);
     link.click();
@@ -61,7 +61,7 @@ const Hero = () => {
           <div className="absolute -inset-1 bg-gradient-to-r from-purple-600 to-pink-600 rounded-full blur-lg opacity-50 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
           <img 
             class="relative w-40 h-40 md:w-48 md:h-48 rounded-full object-cover border-4 border-background shadow-2xl" 
-            alt="Your Name - Profile Picture" src="/src/sources/WhatsApp Image 2024-08-04 at 00.14.01_b398daa2.jpg" />
+            alt="Your Name - Profile Picture" src="/public/sources/WhatsApp Image 2024-08-04 at 00.14.01_b398daa2.jpg" />
         </motion.div>
 
         <motion.h1 
