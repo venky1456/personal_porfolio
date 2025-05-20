@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle } from '@/components/ui/card';
@@ -10,7 +9,7 @@ const projectData = [
     id: 1,
     title: 'Online Learning Platform',
     description: 'A full-stack MERN application that allows students to browse and enroll in free or paid courses, and instructors to create, update, and manage their own courses with secure authentication and payment integration.',
-    imageUrl: '/public/sources/learning.png',
+    imageUrl: '/sources/learning.png',
     imageName: 'Modern online learning platform interface with dashboard and course cards',
     tags: ['React', 'Node.js', 'Express', 'MongoDB', 'JWT', 'Tailwind CSS'],
     liveLink: '#', // Replace with your actual deployed link if available
@@ -21,7 +20,7 @@ const projectData = [
     id: 2,
     title: 'House Price Prediction',
     description: 'A machine learning project that predicts house prices based on various features such as location, size, and amenities. Built using Python and deployed with a simple web interface for user interaction.',
-    imageUrl: 'public/sources/images.jpg',
+    imageUrl: '/sources/images.jpg',
     imageName: 'Graph showing predicted vs actual house prices',
     tags: ['Python', 'Machine Learning', 'Pandas', 'Scikit-learn', 'Frontend'],
     liveLink: '#', // Replace with actual deployed app link if available
@@ -32,7 +31,7 @@ const projectData = [
     id: 3,
     title: 'Personal Portfolio',
     description: 'A modern and responsive personal portfolio website built using React. It showcases my projects, skills, and experience with smooth navigation and a clean, visually appealing UI.',
-    imageUrl: '/public/sources/portfolio2.png',
+    imageUrl: '/sources/portfolio2.png',
     imageName: 'Modern React-based portfolio interface',
     tags: ['React', 'JavaScript', 'Tailwind CSS'],
     liveLink: '#', // Replace with actual deployed site link
@@ -42,7 +41,7 @@ const projectData = [
     id: 4,
     title: 'Serverless Text Translator',
     description: 'A lightweight, serverless application that allows users to translate text between multiple languages using real-time API integration. Built with React and deployed without a dedicated backend server.',
-    imageUrl: '/public/sources/translate1.png',
+    imageUrl: '/sources/translate1.png',
     imageName: 'Text translation interface with language selection and translated output',
     tags: ['React', 'AWS Serverless Services','Python'],
     liveLink: '#', // Replace with your live project URL

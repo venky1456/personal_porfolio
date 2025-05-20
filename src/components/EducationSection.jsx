@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Card, CardContent, CardHeader, CardTitle, CardFooter } from '@/components/ui/card';
@@ -9,7 +8,7 @@ const educationData = [
     institution: 'KL University',
     logoText: 'KL', 
     logoImage: 'KL University official logo',
-    logoimageUrl: '/public/sources/Kllogo.jpg',
+    logoimageUrl: '/sources/Kllogo.jpg',
     title: 'Bachelor of Technology in Artificial Intelligence and Data Science',
     period: '2022 - Present',
     grade: 'CGPA: 9.51/10',
@@ -19,7 +18,7 @@ const educationData = [
     institution: 'Sri Viswa Junior College',
     logoText: 'SV',
     logoImage: 'Sri Viswa Junior College official logo',
-    logoimageUrl: '/public/sources/interclg.jpg',
+    logoimageUrl: '/sources/interclg.jpg',
     title: 'Intermediate (MPC)',
     period: '2020 - 2022', 
     grade: 'Percentage: 9.38%',
@@ -29,7 +28,7 @@ const educationData = [
     institution: 'Bhashyam Public School',
     logoText: 'SC',
     logoImage: 'Sri Chaitanya Techno School official logo',
-    logoimageUrl: '/public/sources/schoollogo.png',
+    logoimageUrl: '/sources/schoollogo.png',
     title: 'Secondary Education (SSC)',
     period: '2020', 
     grade: 'Percentage: 98.5%',

@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -48,7 +47,7 @@ const ExperienceItem = ({ experience, index, isLast }) => {
           <img  
             class="w-full h-full object-contain p-1.5" 
             alt={experience.company + " logo"}
-           src="/public/sources/ei-logo.jpg" />
+           src="/sources/ei-logo.jpg" />
         </div>
         {!isLast && <div className="w-px h-full bg-primary/30 my-2 min-h-[60px]"></div>}
       </div>
