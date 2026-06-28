@@ -14,7 +14,7 @@ const Hero = () => {
 
   const handleResumeDownload = () => {
     const link = document.createElement('a');
-    link.href = '/public/sources/Venkatesh_Resume.pdf';
+    link.href = '/public/sources/Venkatesh_Gokavarapu_Resume.pdf';
     link.setAttribute('download', 'Venkatesh_Resume.pdf'); 
     document.body.appendChild(link);
     link.click();

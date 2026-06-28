@@ -52,8 +52,8 @@ const AboutSection = () => {
           <Card className="bg-card/70 dark:bg-slate-800/70 backdrop-blur-sm border-primary/20 p-2">
             <CardContent className="pt-6 text-lg text-foreground/90 dark:text-foreground/80 space-y-4 leading-relaxed">
               <p>
-                Hi, I’m <span className="font-bold text-primary">Venkatesh</span>, a 21-year-old tech enthusiast and third-year B.Tech student majoring in AI and Data Science.  I have a strong foundation in <span className="font-bold text-pink-600">programming</span>, 
-                <span className="font-semibold text-pink-400"> Machine Learning</span>, <span className="font-semibold text-purple-400">Full Stack Development</span>, and <span className="font-semibold text-teal-400">Cloud Computing</span> and I’m passionate about blending creativity with logic to solve complex, real-world problems.
+                Hi, I’m <span className="font-bold text-primary">Venkatesh</span>, a 21-year-old tech enthusiast and a recent B.Tech graduate majoring in Artificial Intelligence and Data Science.  I have a strong foundation in <span className="font-bold text-pink-600">programming</span>, 
+                <span className="font-semibold text-pink-400"> Machine Learning</span>, <span className="font-semibold text-purple-400">Full Stack Development</span>, and <span className="font-semibold text-teal-400">Cloud Computing</span> and I’m passionate about blending creativity with logic to solve complex, real-world challenges. As an aspiring AI and Software Engineer, I'm eager to apply my skills, continuously learn emerging technologies, and contribute to impactful projects that make a difference.
               </p>
               <p>
               My journey spans across developing full-stack applications, analyzing large datasets, and implementing advanced ML and NLP models to extract meaningful insights. During my internship at EI Systems, I optimized machine learning models—achieving 90% accuracy—and gained hands-on experience in fine-tuning, evaluation, and AWS-based cloud deployment. This experience strengthened my skills in data engineering and cloud-native solutions.

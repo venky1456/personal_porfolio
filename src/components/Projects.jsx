@@ -35,7 +35,7 @@ const projectData = [
     imageName: 'Modern React-based portfolio interface',
     tags: ['React', 'JavaScript', 'Tailwind CSS'],
     liveLink: '#', // Replace with actual deployed site link
-    repoLink: 'https://github.com', // Replace with your actual GitHub repo link
+    repoLink: 'https://github.com/venky1456/personal_porfolio', // Replace with your actual GitHub repo link
   },
   {
     id: 4,

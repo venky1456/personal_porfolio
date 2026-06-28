@@ -69,7 +69,7 @@ const Contact = () => {
   };
 
   const contactInfo = [
-    { icon: <Mail className="h-6 w-6 text-primary" />, text: "2200080121.aids@gmail.com", href: "mailto:your.email@example.com" },
+    { icon: <Mail className="h-6 w-6 text-primary" />, text: "venkateshgokavarapu2022@gmail.com", href: "mailto:venkateshgokavarapu2022@gmail.com" },
     { icon: <Phone className="h-6 w-6 text-primary" />, text: "+91 7842681782", href: "tel:+12345678900" },
     { icon: <MapPin className="h-6 w-6 text-primary" />, text: "3-105 , Main street , Geddakancharam , G.Sigdam(mandal) , Srikakulam(dist) , Andhra Pradesh,India" },
   ];

@@ -10,8 +10,8 @@ const educationData = [
     logoImage: 'KL University official logo',
     logoimageUrl: '/sources/Kllogo.jpg',
     title: 'Bachelor of Technology in Artificial Intelligence and Data Science',
-    period: '2022 - Present',
-    grade: 'CGPA: 9.51/10',
+    period: '2022 - 2026',
+    grade: 'CGPA: 9.47/10',
     description: "Pursuing a B.Tech focused on cutting-edge AI and Data Science principles, with a strong emphasis on practical application and research.",
   },
   {
